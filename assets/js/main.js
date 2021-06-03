@@ -1,5 +1,5 @@
 /**
-* Template Name: Lonely - v4.1.0
+* Template Name: Lonely - v4.3.0
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
