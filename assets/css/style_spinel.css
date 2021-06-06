@@ -1028,6 +1028,18 @@ section {
   padding-bottom: 20px;
 }
 
+.contact .social-links .custom img {
+  width: 20px;
+  height: 20px;
+  filter: invert(47%) sepia(21%) saturate(934%) hue-rotate(292deg)
+    brightness(100%) contrast(92%);
+}
+
+.contact .social-links .custom:hover img {
+  filter: invert(86%) sepia(1%) saturate(3813%) hue-rotate(298deg)
+    brightness(113%) contrast(97%);
+}
+
 .contact .social-links a {
   font-size: 18px;
   display: inline-block;
